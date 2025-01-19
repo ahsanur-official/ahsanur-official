@@ -75,10 +75,10 @@ Collaborated with students and faculty to promote IT development and foster care
 
 ## 📂 Highlighted Projects
 
-- 🛠️ **[Classroom Dashboard](https://ahsanur-42.github.io/Class-Room-Dashboard/)**: Simple Classroom Dashboard Design.
-- 📚 **[Fun Post](https://funpost.netlify.app/)**: Making fun in online.  
-- 📚 **[PUB Campus Aide](https://pub-campus-aide.netlify.app/)**: Project for Hackathon - 2024 at PUB.  
-- 📚 **[Simple ATM Card Transaction](https://ahsanur-42.github.io/Simple-ATM-card-Transactions/)**: Simple ATM Card Transaction for Adding & Withdrawing Cash.  
+- 🎓 **[Classroom Dashboard](https://ahsanur-42.github.io/Class-Room-Dashboard/)**: Simple Classroom Dashboard Design.  
+- 🎉 **[Fun Post](https://funpost.netlify.app/)**: Making fun in online.  
+- 🏆 **[PUB Campus Aide](https://pub-campus-aide.netlify.app/)**: Project for Hackathon - 2024 at PUB.  
+- 💳 **[Simple ATM Card Transaction](https://ahsanur-42.github.io/Simple-ATM-card-Transactions/)**: Simple ATM Card Transaction for Adding & Withdrawing Cash.  
 
 ---
 
