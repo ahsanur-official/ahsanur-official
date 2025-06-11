@@ -2,9 +2,9 @@
 
 ## 📊 Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahsanur-42&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/ahsanur-42?label=Follow&style=social)  
-![Total Stars](https://img.shields.io/github/stars/ahsanur-42?label=Stars&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=ahsanur-official&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/ahsanur-official?label=Follow&style=social)  
+![Total Stars](https://img.shields.io/github/stars/ahsanur-official?label=Stars&style=social)  
 
 ---
 
