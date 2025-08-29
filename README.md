@@ -75,8 +75,8 @@ I'm a **Frontend Developer** and **CSE student** from Bogura, Bangladesh, passio
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanur-42&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-42&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=radical)
 
 ---
 
