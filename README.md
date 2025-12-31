@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://github.com/ahsanur-official">
-      <img src="https://komarev.com/ghpvc/?username=ahsanur-official&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=ahsanur-42&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     </a>
     <a href="https://github.com/ahsanur-official">
       <img src="https://img.shields.io/github/followers/ahsanur-official?label=Followers&style=social" alt="GitHub Followers" />
@@ -77,8 +77,9 @@ I am a **Frontend Developer** and a **Computer Science** student at **Pundra Uni
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanur-42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 ---
