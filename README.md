@@ -1,108 +1,154 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Md.+Ahsanur+Rahaman;Frontend+Developer+from+Bangladesh;CSE+Undergraduate+@+PUST;Competitive+Programmer;UI%2FUX+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E293B,100:38BDF8&text=Md.%20Ahsanur%20Rahaman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20Undergraduate%20%7C%20Open%20Source%20Enthusiast&descAlignY=55" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Modern+%26+Scalable+Web+Applications;Passionate+About+UI%2FUX+%26+Frontend+Engineering;Competitive+Programmer+%7C+Creative+Developer" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/ahsanur-official">
-  <img src="https://komarev.com/ghpvc/?username=ahsanur-official&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=ahsanur-official&label=Profile+Views&color=38BDF8&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/ahsanur-official?tab=followers">
-  <img src="https://img.shields.io/github/followers/ahsanur-official?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/ahsanur-official?style=for-the-badge&color=38BDF8&labelColor=0F172A" />
 </a>
 
 <a href="https://github.com/ahsanur-official">
-  <img src="https://img.shields.io/github/stars/ahsanur-official?affiliations=OWNER&style=social" />
+    <img src="https://img.shields.io/github/stars/ahsanur-official?style=for-the-badge&color=38BDF8&labelColor=0F172A" />
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-```js
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```javascript
 const ahsanur = {
+    name: "Md. Ahsanur Rahaman",
     location: "Bangladesh 🇧🇩",
-    currentFocus: "Frontend & Full Stack Development",
-    education: "B.Sc in CSE @ Pundra University of Science & Technology",
-    interests: [
-        "Web Development",
+    role: "Frontend Developer",
+    education: "B.Sc in CSE @ PUST",
+    focus: [
+        "Frontend Engineering",
+        "Full Stack Development",
         "UI/UX Design",
-        "Competitive Programming",
-        "Open Source"
+        "Web Animation"
     ],
     currentlyLearning: [
         "Next.js",
-        "Advanced React",
         "Node.js",
+        "Advanced React",
         "Backend Architecture"
     ],
-    motto: "Transforming ideas into elegant digital experiences."
+    hobbies: [
+        "Programming",
+        "Designing",
+        "Problem Solving",
+        "Exploring New Technologies"
+    ],
+    lifePhilosophy: "Build elegant solutions for real-world problems."
 };
 ```
 
-I’m a passionate **Frontend Developer** and **CSE Undergraduate** who enjoys building modern, responsive, and user-friendly web applications.
+<br/>
 
-My goal is to combine **technology + creativity** to solve real-world problems through clean UI, scalable architecture, and smooth user experiences.
+- 🎓 Studying **Computer Science & Engineering**
+- 🌱 Exploring the modern **JavaScript ecosystem**
+- ⚡ Passionate about creating **interactive UI experiences**
+- 🚀 Interested in **Open Source & Scalable Applications**
+- 💡 Love combining **logic + creativity** into digital products
 
 ---
 
 # 🏆 Achievements
 
-- 🥈 **1st Runner-Up** — PUPC Beginner Programming Contest 2023  
-- 🥉 **2nd Runner-Up** — Individual Programming Contest 2024  
-- 🏅 **Winner** — CSE Department Logo Contest 2024  
-- 💡 Active member of programming & tech communities  
-- 🚀 Participated in Hackathons, Seminars & Competitive Programming Events  
-
----
-
-# 🚀 Tech Stack
-
 <div align="center">
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,illustrator" />
+| Achievement | Position |
+|-------------|----------|
+| 🥈 PUPC Beginner Programming Contest 2023 | 1st Runner-Up |
+| 🥉 Individual Programming Contest 2024 | 2nd Runner-Up |
+| 🏅 CSE Department Logo Contest 2024 | Winner |
+| 💻 Hackathons & Tech Events | Active Participant |
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🔥 **Personal Portfolio** | Modern animated portfolio showcasing projects, skills & achievements | React, CSS |
-| 💰 **Finance Tracker** | Track income, expenses & financial records visually | JavaScript |
-| 🧭 **PUB Campus Aide** | University navigation & service assistant platform | React, Maps API |
-| 🏦 **ATM Simulator** | Smart ATM transaction simulation system | JavaScript |
-| 🎨 **Color Palette Tool** | Generate beautiful color palettes instantly | JavaScript |
-| 📚 **Classroom Dashboard** | Student-focused educational dashboard UI | HTML, CSS |
-
----
-
-# 📈 GitHub Analytics
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+## 🎨 Frontend Development
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma" />
+
+---
+
+## ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+---
+
+## 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
+
+---
+
+## 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,illustrator,linux" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🌐 **Personal Portfolio** | Modern portfolio website with smooth animation & responsive design | React, CSS |
+| 💰 **Finance Tracker** | Track expenses and financial activities visually | JavaScript |
+| 🧭 **PUB Campus Aide** | Smart navigation & assistance system for university students | React, Maps API |
+| 🏦 **ATM Simulator** | Simulated banking transaction system | JavaScript |
+| 🎨 **Color Palette Generator** | Generate aesthetic color palettes instantly | JavaScript |
+| 📚 **Classroom Dashboard** | Minimal educational dashboard interface | HTML, CSS |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanur-official&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ahsanur-official&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-official&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="95%" />
 
 </div>
 
@@ -113,36 +159,48 @@ My goal is to combine **technology + creativity** to solve real-world problems t
 <div align="center">
 
 <a href="https://www.linkedin.com/in/md-ahsanur-rahaman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:mdahsanurrahaman2456@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://ahsanur-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="https://github.com/ahsanur-official">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-## 💭 Quote of the Day
-
-*"Code is not just syntax — it's creativity, logic, and innovation combined."*
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
+
+## ✨ Developer Quote
+
+> “Great software is built where creativity meets engineering.”
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile
 
 ⭐ From [Md. Ahsanur Rahaman](https://github.com/ahsanur-official)
 
