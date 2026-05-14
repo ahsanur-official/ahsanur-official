@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:38BDF8&text=Md.%20Ahsanur%20Rahaman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20Undergraduate%20%7C%20Open%20Source%20Enthusiast&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E293B,100:38BDF8&text=Md.%20Ahsanur%20Rahaman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20Undergraduate%20%7C%20Open%20Source%20Enthusiast&descAlignY=55" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer+from+Bangladesh;Passionate+About+UI%2FUX+%26+Web+Engineering;Competitive+Programmer+%7C+Open+Source+Learner;Building+Modern+%26+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Modern+%26+Scalable+Web+Applications;Passionate+About+UI%2FUX+%26+Frontend+Engineering;Competitive+Programmer+%7C+Creative+Developer" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ahsanur-official">
-  <img src="https://komarev.com/ghpvc/?username=ahsanur-official&label=Profile+Views&color=38BDF8&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=ahsanur-official&label=Profile+Views&color=38BDF8&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/ahsanur-official?tab=followers">
-  <img src="https://img.shields.io/github/followers/ahsanur-official?style=for-the-badge&color=38BDF8&labelColor=0F172A" />
+    <img src="https://img.shields.io/github/followers/ahsanur-official?style=for-the-badge&color=38BDF8&labelColor=0F172A" />
 </a>
 
 <a href="https://github.com/ahsanur-official">
-  <img src="https://img.shields.io/github/stars/ahsanur-official?style=for-the-badge&color=38BDF8&labelColor=0F172A" />
+    <img src="https://img.shields.io/github/stars/ahsanur-official?style=for-the-badge&color=38BDF8&labelColor=0F172A" />
 </a>
 
 </div>
@@ -26,11 +26,7 @@
 
 # 💫 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="60%">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```javascript
 const ahsanur = {
@@ -38,44 +34,35 @@ const ahsanur = {
     location: "Bangladesh 🇧🇩",
     role: "Frontend Developer",
     education: "B.Sc in CSE @ PUST",
-    
     focus: [
         "Frontend Engineering",
         "Full Stack Development",
         "UI/UX Design",
         "Web Animation"
     ],
-
     currentlyLearning: [
         "Next.js",
         "Node.js",
         "Advanced React",
         "Backend Architecture"
     ],
-
-    interests: [
+    hobbies: [
         "Programming",
-        "Problem Solving",
         "Designing",
-        "Open Source"
+        "Problem Solving",
+        "Exploring New Technologies"
     ],
-
-    lifePhilosophy:
-        "Build elegant solutions for real-world problems."
+    lifePhilosophy: "Build elegant solutions for real-world problems."
 };
 ```
 
-</td>
+<br/>
 
-<td width="40%">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
-
-</td>
-</tr>
-</table>
-
-</div>
+- 🎓 Studying **Computer Science & Engineering**
+- 🌱 Exploring the modern **JavaScript ecosystem**
+- ⚡ Passionate about creating **interactive UI experiences**
+- 🚀 Interested in **Open Source & Scalable Applications**
+- 💡 Love combining **logic + creativity** into digital products
 
 ---
 
@@ -98,22 +85,26 @@ const ahsanur = {
 
 <div align="center">
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma" />
 
-<br/><br/>
+---
 
-### ⚙️ Backend & Database
+## ⚙️ Backend & Database
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
-<br/><br/>
+---
 
-### 💻 Programming Languages
+## 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
 
-<br/><br/>
+---
 
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,illustrator,linux" />
 
 </div>
@@ -126,10 +117,10 @@ const ahsanur = {
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| 🌐 **Personal Portfolio** | Modern developer portfolio with smooth animations and responsive design | React, CSS |
-| 💰 **Finance Tracker** | Expense & income management system with visual financial tracking | JavaScript, LocalStorage |
-| 🧭 **PUB Campus Aide** | University navigation & student assistance platform | React, Maps API |
-| 🏦 **ATM Simulator** | Smart banking transaction simulation system | JavaScript |
+| 🌐 **Personal Portfolio** | Modern portfolio website with smooth animation & responsive design | React, CSS |
+| 💰 **Finance Tracker** | Track expenses and financial activities visually | JavaScript |
+| 🧭 **PUB Campus Aide** | Smart navigation & assistance system for university students | React, Maps API |
+| 🏦 **ATM Simulator** | Simulated banking transaction system | JavaScript |
 | 🎨 **Color Palette Generator** | Generate aesthetic color palettes instantly | JavaScript |
 | 📚 **Classroom Dashboard** | Minimal educational dashboard interface | HTML, CSS |
 
@@ -141,13 +132,13 @@ const ahsanur = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff" />
 
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ahsanur-official&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ahsanur-official&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 </div>
 
@@ -157,7 +148,31 @@ const ahsanur = {
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-official&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-official&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="95%" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-ahsanur-rahaman/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mdahsanurrahaman2456@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://ahsanur-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/ahsanur-official">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -173,35 +188,11 @@ const ahsanur = {
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/md-ahsanur-rahaman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## ✨ Developer Quote
 
-<a href="mailto:mdahsanurrahaman2456@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://ahsanur-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/ahsanur-official">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 💭 Developer Quote
-
-<div align="center">
-
-### “Great software is built where creativity meets engineering.”
+> “Great software is built where creativity meets engineering.”
 
 </div>
 
