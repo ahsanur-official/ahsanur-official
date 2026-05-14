@@ -1,10 +1,24 @@
-# 🌟 MD AHSANUR RAHAMAN
-
 <div align="center">
 
-### Aspiring Data Scientist • Programmer • Creative CSE Student 🎓
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1120,50:111827,100:06B6D4&text=Md.%20Ahsanur%20Rahaman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Frontend%20Developer%20%7C%20CSE%20Undergraduate&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Competitive+Programmer;Frontend+Developer;Creative+Problem+Solver;Lifelong+Learner" />
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist+%26+ML+Enthusiast;Frontend+Developer+%7C+Creative+Problem+Solver;Competitive+Programmer+%7C+Open+Source+Learner;Building+Intelligent+%26+Scalable+Digital+Solutions" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/ahsanur-official">
+  <img src="https://komarev.com/ghpvc/?username=ahsanur-official&label=Profile+Views&color=06B6D4&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/ahsanur-official?tab=followers">
+  <img src="https://img.shields.io/github/followers/ahsanur-official?style=for-the-badge&color=06B6D4&labelColor=111827" />
+</a>
+
+<a href="https://github.com/ahsanur-official">
+  <img src="https://img.shields.io/github/stars/ahsanur-official?style=for-the-badge&color=06B6D4&labelColor=111827" />
+</a>
 
 </div>
 
@@ -12,99 +26,159 @@
 
 # 💫 About Me
 
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+```python
+class AhsanurRahaman:
+
+    def __init__(self):
+
+        self.name = "Md. Ahsanur Rahaman"
+        self.location = "Bangladesh 🇧🇩"
+
+        self.roles = [
+            "Aspiring Data Scientist",
+            "Frontend Developer",
+            "Competitive Programmer"
+        ]
+
+        self.education = (
+            "B.Sc in Computer Science & Engineering @ PUST"
+        )
+
+        self.focus_areas = [
+            "Data Science & Machine Learning",
+            "Frontend Engineering",
+            "UI/UX Design",
+            "Data Visualization",
+            "Full Stack Development"
+        ]
+
+        self.currently_learning = [
+            "Python for Data Science",
+            "Machine Learning",
+            "Next.js",
+            "Deep Learning",
+            "Backend Architecture"
+        ]
+
+        self.skills = [
+            "Python",
+            "C",
+            "C++",
+            "Java",
+            "React.js",
+            "SQL",
+            "MongoDB"
+        ]
+
+        self.goal = (
+            "Transforming data and ideas into impactful "
+            "digital experiences."
+        )
+```
+
+</td>
+
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌟 Professional Summary
+
 Motivated and curious **Computer Science & Engineering student** passionate about solving real-world problems through **data, programming, and creative design**.
 
-I enjoy transforming ideas into practical and impactful digital solutions while continuously exploring new technologies and improving my technical expertise.
+I enjoy building modern digital experiences while continuously exploring **Data Science, Machine Learning, Web Development, and UI/UX Engineering**.
 
-I believe in combining **logic, creativity, and innovation** to build meaningful projects that create value for people.
-
----
-
-# 🔑 Skills & Focus Areas
-
-## 🐍 Programming & Problem-Solving
-
-- Strong foundation in:
-  - Python
-  - C
-  - C++
-  - Java
-
-- ⚔️ Competitive Programming enthusiast  
-  Regularly practice problem-solving to improve:
-  - Algorithmic thinking
-  - Logic building
-  - Coding speed
-  - Optimization skills
-
-- Passionate about writing:
-  - Clean code
-  - Efficient solutions
-  - Maintainable programs
+My goal is to combine **logic, creativity, and technology** to develop scalable, intelligent, and user-centric solutions.
 
 ---
 
-# 📊 Data Science & Analysis
+# 🏆 Achievements
 
-- Beginner in **Data Science & Machine Learning**
+<div align="center">
 
-- Learning:
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
+| Achievement | Position |
+|-------------|----------|
+| 🥈 PUPC Beginner Programming Contest 2023 | 1st Runner-Up |
+| 🥉 Individual Programming Contest 2024 | 2nd Runner-Up |
+| 🏅 CSE Department Logo Contest 2024 | Winner |
+| 💻 Hackathons & Tech Events | Active Participant |
 
-- Exploring:
-  - Statistics
-  - Probability
-  - Data Analysis techniques
-
-- Interested in:
-  - Data Visualization
-  - Predictive Modeling
-  - Insight-driven solutions
-  - AI-powered systems
-
-- Goal:
-  Build machine learning models that solve real-world problems and provide meaningful insights.
+</div>
 
 ---
 
-# 🌐 Web & App Development
+# ⚒️ Tech Stack
 
-## Frontend Development
+<div align="center">
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js ⚛️
-- Tailwind CSS 🌈
+### 🧠 Data Science & AI
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
-## Backend & Database
+<br/><br/>
 
-- SQL
-- MongoDB
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-## Mobile Development
+<br/><br/>
 
-- Learning Flutter for cross-platform mobile applications 📱
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma" />
+
+<br/><br/>
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+<br/><br/>
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
+
+<br/><br/>
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+<br/><br/>
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,illustrator,linux" />
+
+</div>
 
 ---
 
-# 🎨 Design & Creativity
+# 🚀 Featured Projects
 
-- Part-time **Logo & Graphic Designer** ✏️
+<div align="center">
 
-- Freelance experience in:
-  - Logo Design
-  - Posters
-  - Branding
-  - Social Media Graphics
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🧠 **EEG-Driven Digital Neural Bypass** | CNN-LSTM based EEG signal decoding for post-stroke rehabilitation research | Python, Deep Learning |
+| 🌐 **Personal Portfolio** | Modern portfolio website with responsive UI and smooth animations | React, CSS |
+| 💰 **Finance Tracker** | Expense & income management system with financial visualization | JavaScript |
+| 🧭 **PUB Campus Aide** | Smart campus navigation & student assistance platform | React, Maps API |
+| 🏦 **ATM Simulator** | Banking transaction simulation system | JavaScript |
+| 🎨 **Color Palette Generator** | Generate aesthetic color palettes instantly | JavaScript |
+| 📚 **Classroom Dashboard** | Minimal educational dashboard interface | HTML, CSS |
 
-- Passionate about combining:
-  - Creativity
-  - Technology
-  - User Experience
+</div>
 
 ---
 
@@ -122,64 +196,100 @@ I believe in combining **logic, creativity, and innovation** to build meaningful
   - Leadership
   - Communication
 
-- Contributed to building digital tools and supporting collaborative projects.
+- Passionate about contributing to innovative and collaborative projects.
 
 ---
 
 # 🌍 Languages
+
+<div align="center">
 
 | Language | Proficiency |
 |----------|-------------|
 | 🇧🇩 Bangla | Native |
 | 🇬🇧 English | Fluent |
 | 🇮🇳 Hindi | Conversational |
-| 🇰🇷 Korean | Beginner (Learning) |
+| 🇰🇷 Korean | Beginner |
+
+</div>
 
 ---
 
 # 🎯 Career Goals
 
-I’m passionate about combining:
-
-- Programming
-- Statistics
-- Data Analysis
-- Machine Learning
-
-to grow as a future:
-
-- 📊 Data Analyst
-- 🤖 Data Scientist
-- 💻 Software Developer
-
-### My Goals Include:
-
-- Applying Python & Data Science in real-world projects
-- Building intelligent and user-centric applications
-- Working with innovative and forward-thinking teams
-- Continuously learning modern technologies
-- Contributing to impactful digital solutions
+- Apply Data Science & Machine Learning in real-world applications
+- Grow as a Data Analyst / Data Scientist
+- Build scalable and user-centric digital products
+- Work with forward-thinking teams
+- Contribute to impactful technological solutions
 
 ---
 
-# 💼 Open To Opportunities
-
-🚀 Currently open to:
-
-- Data Science & Analysis
-- Python & Machine Learning
-- Web Development
-- Mobile App Development
-- Creative Design & Branding
-- Freelance & Collaborative Projects
-
----
+# 📊 GitHub Analytics
 
 <div align="center">
 
-# ✨ Personal Motto
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-### “Transforming ideas into impactful digital experiences through code, creativity, and data.”
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ahsanur-official&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-official&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-ahsanur-rahaman/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mdahsanurrahaman2456@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://ahsanur-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/ahsanur-official">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 💭 Personal Motto
+
+<div align="center">
+
+### “Transforming ideas and data into impactful digital experiences.”
 
 </div>
 
@@ -187,6 +297,8 @@ to grow as a future:
 
 <div align="center">
 
-## 🚀 Let’s connect and create something impactful together!
+### 💙 Thanks for visiting my profile
+
+⭐ From [Md. Ahsanur Rahaman](https://github.com/ahsanur-official)
 
 </div>
