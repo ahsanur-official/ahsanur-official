@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,50:111827,100:06B6D4&text=Md.%20Ahsanur%20Rahaman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20Frontend%20Developer&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,50:111827,100:06B6D4&text=Md.%20Ahsanur%20Rahaman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Researcher%20%7C%20Frontend%20Developer&descAlignY=58" width="100%" />
 
 <br/>
 
@@ -314,13 +314,16 @@ My goal is to combine **logic, creativity, research, and engineering** to develo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ahsanur-official&theme=tokyonight&hide_border=true" />
+<img width="70%"
+src="https://streak-stats.demolab.com?user=ahsanur-official&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -330,7 +333,8 @@ My goal is to combine **logic, creativity, research, and engineering** to develo
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-official&theme=tokyo-night&hide_border=true" />
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-official&bg_color=0d1117&color=06B6D4&line=06B6D4&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -340,7 +344,8 @@ My goal is to combine **logic, creativity, research, and engineering** to develo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahsanur-official&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<img
+src="https://github-profile-trophy.vercel.app/?username=ahsanur-official&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -350,7 +355,8 @@ My goal is to combine **logic, creativity, research, and engineering** to develo
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanur-official&theme=tokyonight" />
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanur-official&theme=tokyonight" />
 
 </div>
 
@@ -360,7 +366,8 @@ My goal is to combine **logic, creativity, research, and engineering** to develo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahsanur-official/ahsanur-official/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img width="100%"
+src="https://raw.githubusercontent.com/ahsanur-official/ahsanur-official/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
