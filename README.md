@@ -238,23 +238,6 @@ My goal is to combine **logic, creativity, research, and engineering** to develo
 
 ---
 
-# 📂 Repository Categories
-
-<div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| 🤖 AI & Machine Learning | Python, TensorFlow |
-| 🌐 Web Applications | React, JavaScript |
-| 📱 Mobile Apps | Flutter |
-| 💻 Programming Projects | C, C++, Java |
-| 📊 Data Analytics | Pandas, NumPy |
-| 🎨 UI/UX Projects | Figma, CSS |
-
-</div>
-
----
-
 # 📜 Certifications
 
 - 🏅 Google Data Analytics
@@ -262,25 +245,6 @@ My goal is to combine **logic, creativity, research, and engineering** to develo
 - 🏅 Python for Everybody
 - 🏅 Responsive Web Design
 - 🏅 Machine Learning Fundamentals
-
----
-
-# ❤️ Volunteer & Team Experience
-
-- Active participant in:
-  - Programming contests
-  - Workshops
-  - Hackathons
-  - University tech events
-
-- Experience in:
-  - Team collaboration
-  - Leadership
-  - Event organization
-  - Problem solving
-  - Communication
-
-- Passionate about contributing to innovative and collaborative projects.
 
 ---
 
@@ -299,31 +263,20 @@ My goal is to combine **logic, creativity, research, and engineering** to develo
 
 ---
 
-# 🎯 Career Goals
-
-- Apply AI & Data Science in real-world applications
-- Become a skilled Data Scientist / ML Engineer
-- Build scalable and intelligent products
-- Work with innovative research teams
-- Contribute to impactful technological solutions
-- Explore Brain Computer Interface research
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+src="https://github-readme-stats.vercel.app/api?username=ahsanur-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanur-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
 <img width="70%"
-src="https://streak-stats.demolab.com?user=ahsanur-official&theme=tokyonight&hide_border=true" />
+src="https://streak-stats.demolab.com?user=ahsanur-official&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -334,7 +287,7 @@ src="https://streak-stats.demolab.com?user=ahsanur-official&theme=tokyonight&hid
 <div align="center">
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-official&bg_color=0d1117&color=06B6D4&line=06B6D4&point=FFFFFF&area=true&hide_border=true" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-official&custom_title=Ahsanur's%20GitHub%20Contribution%20Graph&bg_color=0D1117&color=06B6D4&line=06B6D4&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -345,18 +298,29 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanur-offi
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=ahsanur-official&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+src="https://github-profile-trophy.vercel.app/?username=ahsanur-official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-# 📊 Profile Summary
+# 📊 Profile Summary Cards
 
 <div align="center">
 
 <img width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanur-official&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahsanur-official&theme=tokyonight" />
+
+<img width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahsanur-official&theme=tokyonight" />
+
+<img width="32%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahsanur-official&theme=tokyonight" />
 
 </div>
 
@@ -366,8 +330,23 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <div align="center">
 
-<img width="100%"
-src="https://raw.githubusercontent.com/ahsanur-official/ahsanur-official/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ahsanur-official/ahsanur-official/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ahsanur-official/ahsanur-official/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ahsanur-official/ahsanur-official/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
