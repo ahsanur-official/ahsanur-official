@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,50:111827,100:06B6D4&text=Md.%20Ahsanur%20Rahaman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%26%20BCI%20Researcher%20%7C%20Frontend%20Developer&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=260&color=0:0B1120,50:111827,100:06B6D4&text=Md.%20Ahsanur%20Rahaman&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20-%20ML%20Researcher%20-%20Frontend%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Md. Ahsanur Rahaman" />
+
+<a href="https://github.com/ahsanur-official">
+  <img src="https://wsrv.nl/?url=github.com/ahsanur-official.png&w=220&h=220&fit=cover&mask=circle" width="150" alt="Md. Ahsanur Rahaman" />
+</a>
 
 <br/>
 
@@ -439,7 +443,7 @@ I'm open to **research collaborations**, **Master's / RA opportunities**, and di
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:06B6D4,50:111827,100:0B1120" width="100%" />
 
 <div align="center">
 
