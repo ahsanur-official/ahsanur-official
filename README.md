@@ -8,15 +8,37 @@
 
 <br/>
 
+<div align="center">
+
+`┌─ PROFILE.SUMMARY ─────────────────────────────────────────────────────────┐`
+
+**Md. Ahsanur Rahaman** · Aspiring Data Scientist · ML Researcher · Frontend Developer
+
+`EEG / BCI / Neurorehabilitation / Machine Learning / Web Engineering`
+
+[LinkedIn](https://www.linkedin.com/in/md-ahsanur-rahaman/) · [Email](mailto:mdahsanurrahaman2456@gmail.com) · [Portfolio](https://ahsanur-portfolio.netlify.app/) · [GitHub](https://github.com/ahsanur-official)
+
+`└───────────────────────────────────────────────────────────────────────────┘`
+
+</div>
+
+
+`────────────────────────────────────────────────────────────────────────────`
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a4f52-84fd-4c1f-b1e4-9b3d3f1e8f4f.gif" width="100%">
 
-# 💫 About Me
+<h2><code>▸ 💫 About Me</code></h2>
 
 <div align="center">
 
-<table>
+
+
+<div align="center">
+
+<table width="100%" cellpadding="10" cellspacing="0" border="1">
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ```python
 class AhsanurRahaman:
@@ -75,7 +97,7 @@ class AhsanurRahaman:
 
 </td>
 
-<td width="40%">
+<td width="40%" valign="top">
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
 
@@ -85,9 +107,15 @@ class AhsanurRahaman:
 
 </div>
 
----
 
-# 🔭 Currently Working On
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🔭 Currently Working On</code></h2>
+
+<div align="center">
+
+
 
 - 🧠 **EEG-Driven Digital Neural Bypass** research for post-stroke motor rehabilitation
 - 🧬 **Healthy-like EEG reconstruction** with CycleGAN & Diffusion models
@@ -96,9 +124,15 @@ class AhsanurRahaman:
 - 🌐 Modern Full Stack Web Applications (Next.js, Backend Architecture)
 - 🎨 UI/UX Focused Frontend Projects
 
----
 
-# 🌟 Professional Summary
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🌟 Professional Summary</code></h2>
+
+<div align="center">
+
+
 
 Motivated and passionate **Computer Science & Engineering student** focused on solving real-world problems through technology, research, and innovation.
 
@@ -114,9 +148,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 > 🎓 **Seeking** a research-focused Master's programme to advance my expertise in AI, Data Science, Data Analytics, and neural engineering, while contributing to intelligent healthcare and AI-driven rehabilitation research.
 
----
 
-# 🧬 Research Interests
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🧬 Research Interests</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -131,9 +171,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 📄 Publications & Conferences
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 📄 Publications &amp; Conferences</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -148,9 +194,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 🏆 Honors & Achievements
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🏆 Honors &amp; Achievements</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -167,9 +219,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 🎓 Education
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🎓 Education</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -181,9 +239,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# ⚒️ Tech Stack
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ ⚒️ Tech Stack</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -234,9 +298,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 🚀 Featured Projects
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🚀 Featured Projects</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -261,9 +331,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 📜 Certifications & Courses
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 📜 Certifications &amp; Courses</code></h2>
+
+<div align="center">
+
+
 
 - 🔄 **AI/ML Expert**, Phitron (Batch 01), *ongoing*
 - 🏅 **Data Foundations with AI**, Grameenphone Academy (09/2026)
@@ -278,9 +354,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 - 🏅 Responsive Web Design
 - 🏅 Machine Learning Fundamentals
 
----
 
-# 🤝 Leadership & Activities
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🤝 Leadership &amp; Activities</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -301,9 +383,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 - 🛠️ CSE FEST, Technical Team (2025)
 - 🧑‍🏫 Managed & coordinated the Beginner's Programming Contest, PUB CPC (2025)
 
----
 
-# 🌍 Languages
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🌍 Languages</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -316,9 +404,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 📊 GitHub Analytics
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 📊 GitHub Analytics</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -326,9 +420,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 📈 Contribution Graph
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 📈 Contribution Graph</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -336,9 +436,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🏆 GitHub Trophies</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -346,9 +452,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 📊 Profile Summary Cards
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 📊 Profile Summary Cards</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -362,9 +474,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 🐍 Contribution Snake
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🐍 Contribution Snake</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -372,9 +490,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 💻 Competitive Programming Profiles
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 💻 Competitive Programming Profiles</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -385,9 +509,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# ⚡ Fun Zone
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ ⚡ Fun Zone</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -395,9 +525,15 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
----
 
-# 🌐 Connect With Me
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 🌐 Connect With Me</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -412,9 +548,15 @@ I'm open to **research collaborations**, **Master's / RA opportunities**, and di
 
 </div>
 
----
 
-# 💭 Developer Quote
+`────────────────────────────────────────────────────────────────────────────`
+
+
+<h2><code>▸ 💭 Developer Quote</code></h2>
+
+<div align="center">
+
+
 
 <div align="center">
 
@@ -422,7 +564,9 @@ I'm open to **research collaborations**, **Master's / RA opportunities**, and di
 
 </div>
 
----
+
+`────────────────────────────────────────────────────────────────────────────`
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:06B6D4,50:111827,100:0B1120" width="100%" />
 
