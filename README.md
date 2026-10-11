@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## %F0%9F%8C%88 &nbsp%3B ABOUT ME
+## 🌈 &nbsp; ABOUT ME
 
 <table>
 <tr>
@@ -94,20 +94,20 @@ class AhsanurRahaman:
 
 ---
 
-## %F0%9F%94%AD &nbsp%3B CURRENTLY WORKING ON
+## 🔭 &nbsp; CURRENTLY WORKING ON
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## %F0%9F%A7%A0 Neural Engineering
+## 🧠 Neural Engineering
 - **EEG-Driven Digital Neural Bypass** research for post-stroke motor rehabilitation
 - **Healthy-like EEG reconstruction** with CycleGAN & Diffusion models
 
 </td>
 <td width="50%" valign="top">
 
-## %F0%9F%A4%96 AI & Engineering
+## 🤖 AI & Engineering
 - Machine Learning & Deep Learning (Phitron AI/ML Expert, Batch 01)
 - Data Analysis & Visualization
 - Modern Full Stack Web Applications (Next.js, Backend Architecture)
@@ -119,7 +119,7 @@ class AhsanurRahaman:
 
 ---
 
-## %F0%9F%92%8E &nbsp%3B PROFESSIONAL SUMMARY
+## 💎 &nbsp; PROFESSIONAL SUMMARY
 
 > Motivated and passionate **Computer Science & Engineering student** focused on solving real-world problems through technology, research, and innovation.
 
@@ -141,7 +141,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%A7%AC &nbsp%3B RESEARCH INTERESTS
+## 🧬 &nbsp; RESEARCH INTERESTS
 
 <table>
 <tr><td width="35%">🧠 <b>Brain Computer Interface</b></td><td>EEG Signal Analysis, Motor Imagery</td></tr>
@@ -154,7 +154,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%93%84 &nbsp%3B PUBLICATIONS & CONFERENCES
+## 📄 &nbsp; PUBLICATIONS & CONFERENCES
 
 <table>
 <tr>
@@ -194,7 +194,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%8F%86 &nbsp%3B HONORS & ACHIEVEMENTS
+## 🏆 &nbsp; HONORS & ACHIEVEMENTS
 
 <table>
 <tr><th>Year</th><th>Achievement</th><th>Event</th></tr>
@@ -210,7 +210,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%8E%93 &nbsp%3B EDUCATION
+## 🎓 &nbsp; EDUCATION
 
 <table>
 <tr><th>Period</th><th>Degree</th><th>Institution</th><th>Result</th></tr>
@@ -221,7 +221,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%9B%A0%EF%B8%8F &nbsp%3B TECH STACK
+## 🛠️ &nbsp; TECH STACK
 
 <table>
 <tr><th width="30%">Area</th><th>Technologies & Tools</th></tr>
@@ -235,7 +235,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%9A%80 &nbsp%3B FEATURED PROJECTS
+## 🚀 &nbsp; FEATURED PROJECTS
 
 <table>
 <tr><th>Project</th><th>Description</th><th>Technologies</th></tr>
@@ -263,7 +263,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%93%9C &nbsp%3B CERTIFICATIONS & COURSES
+## 📜 &nbsp; CERTIFICATIONS & COURSES
 
 <table>
 <tr><th>Certification / Course</th><th>Provider / Date</th></tr>
@@ -283,7 +283,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%A4%9D &nbsp%3B LEADERSHIP & ACTIVITIES
+## 🤝 &nbsp; LEADERSHIP & ACTIVITIES
 
 <table>
 <tr><th>Period</th><th>Role</th><th>Organization</th></tr>
@@ -293,7 +293,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 <tr><td>2025</td><td>Vice President (CP Community)</td><td>PUB Computer & Programming Club</td></tr>
 </table>
 
-## %F0%9F%8C%8D Volunteering
+## 🌍 Volunteering
 
 <table>
 <tr><td>🌌</td><td>NASA Space Apps Challenge, Bangladesh (2026)</td></tr>
@@ -305,7 +305,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%8C%8D &nbsp%3B LANGUAGES
+## 🌍 &nbsp; LANGUAGES
 
 <table>
 <tr><th>Language</th><th>Proficiency</th></tr>
@@ -317,7 +317,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%93%8A &nbsp%3B GITHUB ANALYTICS
+## 📊 &nbsp; GITHUB ANALYTICS
 
 <div align="center">
 
@@ -333,7 +333,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%93%88 &nbsp%3B CONTRIBUTION GRAPH
+## 📈 &nbsp; CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -343,7 +343,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%8F%86 &nbsp%3B GITHUB TROPHIES
+## 🏆 &nbsp; GITHUB TROPHIES
 
 <div align="center">
 
@@ -353,7 +353,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%A7%BE &nbsp%3B PROFILE SUMMARY CARDS
+## 🧾 &nbsp; PROFILE SUMMARY CARDS
 
 <div align="center">
 
@@ -380,7 +380,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%90%8D &nbsp%3B CONTRIBUTION SNAKE
+## 🐍 &nbsp; CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -389,7 +389,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%92%BB &nbsp%3B COMPETITIVE PROGRAMMING PROFILES
+## 💻 &nbsp; COMPETITIVE PROGRAMMING PROFILES
 
 <div align="center">
 
@@ -402,7 +402,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %E2%9A%A1 &nbsp%3B FUN ZONE
+## ⚡ &nbsp; FUN ZONE
 
 <div align="center">
 
@@ -411,7 +411,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-## %F0%9F%8C%90 &nbsp%3B CONNECT WITH ME
+## 🌐 &nbsp; CONNECT WITH ME
 
 <div align="center">
 
@@ -430,9 +430,9 @@ I'm open to **research collaborations**, **Master's / RA opportunities**, and di
 
 <div align="center">
 
-## %F0%9F%92%AD &nbsp%3B DEVELOPER QUOTE
+## 💭 &nbsp; DEVELOPER QUOTE
 
-## %E2%9C%A8 %22Transforming ideas and data into impactful intelligent digital experiences.%22 %E2%9C%A8
+### ✨ “Transforming ideas and data into impactful intelligent digital experiences.” ✨
 
 ⭐ From [Md. Ahsanur Rahaman](https://github.com/ahsanur-official)
 
