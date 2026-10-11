@@ -1,42 +1,36 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" width="100%" alt="Profile banner for Md. Ahsanur Rahaman: CSE student, EEG/BCI researcher, aspiring data scientist, and frontend developer.">
-  </picture>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:6366F1,50:EC4899,100:FB7185" width="100%" alt=""/>
 
-<div align="center">
+# Md. Ahsanur Rahaman
 
-`┌─ PROFILE.SUMMARY ─────────────────────────────────────────────────────────┐`
+### DATA SCIENCE · NEURAL SIGNAL RESEARCH · WEB ENGINEERING
 
-**Md. Ahsanur Rahaman** · Aspiring Data Scientist · ML Researcher · Frontend Developer
+**EEG / BCI / Neurorehabilitation / Machine Learning / Frontend Development**
 
-`EEG / BCI / Neurorehabilitation / Machine Learning / Web Engineering`
-
-[LinkedIn](https://www.linkedin.com/in/md-ahsanur-rahaman/) · [Email](mailto:mdahsanurrahaman2456@gmail.com) · [Portfolio](https://ahsanur-portfolio.netlify.app/) · [GitHub](https://github.com/ahsanur-official)
-
-`└───────────────────────────────────────────────────────────────────────────┘`
+<a href="https://github.com/ahsanur-official"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/md-ahsanur-rahaman/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://ahsanur-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-DB2777?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:mdahsanurrahaman2456@gmail.com"><img src="https://img.shields.io/badge/Email-EF4444?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a4f52-84fd-4c1f-b1e4-9b3d3f1e8f4f.gif" width="100%">
-
-<h2><code>▸ 💫 About Me</code></h2>
+<hr/>
 
 <div align="center">
 
+| 01 — PROFILE | 02 — RESEARCH | 03 — BUILD | 04 — CONNECT |
+|:---:|:---:|:---:|:---:|
+| `About` | `Publications` | `Projects` | `Contact` |
+
+</div>
+
+<h2>💫 About Me</h2>
 
 
 <div align="center">
 
-<table width="100%" cellpadding="10" cellspacing="0" border="1">
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
 <td width="60%" valign="top">
 
@@ -107,14 +101,8 @@ class AhsanurRahaman:
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🔭 Currently Working On</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🔭 Currently Working On</h2>
 
 
 - 🧠 **EEG-Driven Digital Neural Bypass** research for post-stroke motor rehabilitation
@@ -124,14 +112,8 @@ class AhsanurRahaman:
 - 🌐 Modern Full Stack Web Applications (Next.js, Backend Architecture)
 - 🎨 UI/UX Focused Frontend Projects
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🌟 Professional Summary</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🌟 Professional Summary</h2>
 
 
 Motivated and passionate **Computer Science & Engineering student** focused on solving real-world problems through technology, research, and innovation.
@@ -148,14 +130,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 > 🎓 **Seeking** a research-focused Master's programme to advance my expertise in AI, Data Science, Data Analytics, and neural engineering, while contributing to intelligent healthcare and AI-driven rehabilitation research.
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🧬 Research Interests</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🧬 Research Interests</h2>
 
 
 <div align="center">
@@ -171,14 +147,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 📄 Publications &amp; Conferences</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>📄 Publications & Conferences</h2>
 
 
 <div align="center">
@@ -194,14 +164,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🏆 Honors &amp; Achievements</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🏆 Honors & Achievements</h2>
 
 
 <div align="center">
@@ -219,14 +183,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🎓 Education</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🎓 Education</h2>
 
 
 <div align="center">
@@ -239,19 +197,14 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ ⚒️ Tech Stack</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>⚒️ Tech Stack</h2>
 
 
 <div align="center">
 
-## 🧠 Data Science & AI
+<h3>🧠 Data Science & AI</h3>
+
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,matlab" />
 
@@ -264,31 +217,36 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 <br/><br/>
 
-## 🎨 Frontend Development
+<h3>🎨 Frontend Development</h3>
+
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" />
 
 <br/><br/>
 
-## ⚙️ Backend & Database
+<h3>⚙️ Backend & Database</h3>
+
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
 <br/><br/>
 
-## 💻 Programming Languages
+<h3>💻 Programming Languages</h3>
+
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
 <br/><br/>
 
-## 📱 Mobile Development
+<h3>📱 Mobile Development</h3>
+
 
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 <br/><br/>
 
-## 🛠️ Tools & Platforms
+<h3>🛠️ Tools & Platforms</h3>
+
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,photoshop,illustrator" />
 
@@ -298,14 +256,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🚀 Featured Projects</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🚀 Featured Projects</h2>
 
 
 <div align="center">
@@ -331,14 +283,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 📜 Certifications &amp; Courses</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>📜 Certifications & Courses</h2>
 
 
 - 🔄 **AI/ML Expert**, Phitron (Batch 01), *ongoing*
@@ -354,14 +300,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 - 🏅 Responsive Web Design
 - 🏅 Machine Learning Fundamentals
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🤝 Leadership &amp; Activities</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🤝 Leadership & Activities</h2>
 
 
 <div align="center">
@@ -383,14 +323,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 - 🛠️ CSE FEST, Technical Team (2025)
 - 🧑‍🏫 Managed & coordinated the Beginner's Programming Contest, PUB CPC (2025)
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🌍 Languages</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🌍 Languages</h2>
 
 
 <div align="center">
@@ -404,14 +338,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 📊 GitHub Analytics</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>📊 GitHub Analytics</h2>
 
 
 <div align="center">
@@ -420,14 +348,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 📈 Contribution Graph</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>📈 Contribution Graph</h2>
 
 
 <div align="center">
@@ -436,14 +358,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🏆 GitHub Trophies</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🏆 GitHub Trophies</h2>
 
 
 <div align="center">
@@ -452,14 +368,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 📊 Profile Summary Cards</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>📊 Profile Summary Cards</h2>
 
 
 <div align="center">
@@ -474,14 +384,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🐍 Contribution Snake</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🐍 Contribution Snake</h2>
 
 
 <div align="center">
@@ -490,14 +394,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 💻 Competitive Programming Profiles</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>💻 Competitive Programming Profiles</h2>
 
 
 <div align="center">
@@ -509,14 +407,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ ⚡ Fun Zone</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>⚡ Fun Zone</h2>
 
 
 <div align="center">
@@ -525,14 +417,8 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 🌐 Connect With Me</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>🌐 Connect With Me</h2>
 
 
 <div align="center">
@@ -548,26 +434,18 @@ I'm open to **research collaborations**, **Master's / RA opportunities**, and di
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
-<h2><code>▸ 💭 Developer Quote</code></h2>
-
-<div align="center">
-
+<hr/>
+<h2>💭 Developer Quote</h2>
 
 
 <div align="center">
 
-### ✨ "Transforming ideas and data into impactful intelligent digital experiences." ✨
+<h4>✨ "Transforming ideas and data into impactful intelligent digital experiences." ✨</h4>
+
 
 </div>
 
-
-`────────────────────────────────────────────────────────────────────────────`
-
-
+<hr/>
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:06B6D4,50:111827,100:0B1120" width="100%" />
 
 <div align="center">
