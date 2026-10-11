@@ -5,11 +5,11 @@
 
 <br/>
 
-<img src="https://wsrv.nl/?url=github.com/ahsanur-official.png&w=220&h=220&fit=cover&mask=circle" width="145" alt="Md. Ahsanur Rahaman" />
+<img src="https://github.com/ahsanur-official.png" width="130" alt="GitHub profile avatar" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist+%26+ML+Researcher;EEG+%7C+Brain-Computer+Interface+%7C+Neurorehabilitation;Frontend+Developer+%7C+Creative+Problem+Solver;Competitive+Programmer+%7C+Open+Source+Learner;Seeking+a+Research-Focused+Master%27s+Programme" alt="Typing introduction" />
+<p><b>ASPIRING DATA SCIENTIST · ML RESEARCHER · FRONTEND DEVELOPER</b><br/>EEG · Brain-Computer Interface · Neurorehabilitation · Competitive Programming</p>
 
 <br/><br/>
 
@@ -30,11 +30,7 @@
 
 <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%8C%88%20%26nbsp%3B%20ABOUT%20ME&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:7C3AED,100:2563EB" width="100%" alt="🌈 &nbsp; ABOUT ME" />
-
-</div>
+## %F0%9F%8C%88 &nbsp%3B ABOUT ME
 
 <table>
 <tr>
@@ -88,11 +84,7 @@ class AhsanurRahaman:
 </td>
 <td width="40%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Developer animation" />
-
 <br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a4f52-84fd-4c1f-b1e4-9b3d3f1e8f4f.gif" width="100%" alt="Animated divider" />
 
 </td>
 </tr>
@@ -102,32 +94,20 @@ class AhsanurRahaman:
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%94%AD%20%26nbsp%3B%20CURRENTLY%20WORKING%20ON&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:0891B2,100:06B6D4" width="100%" alt="🔭 &nbsp; CURRENTLY WORKING ON" />
-
-</div>
+## %F0%9F%94%AD &nbsp%3B CURRENTLY WORKING ON
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%A7%A0%20Neural%20Engineering&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:059669,100:10B981" width="100%" alt="🧠 Neural Engineering" />
-
-</div>
+## %F0%9F%A7%A0 Neural Engineering
 - **EEG-Driven Digital Neural Bypass** research for post-stroke motor rehabilitation
 - **Healthy-like EEG reconstruction** with CycleGAN & Diffusion models
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%A4%96%20AI%20%26%20Engineering&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:EA580C,100:F59E0B" width="100%" alt="🤖 AI & Engineering" />
-
-</div>
+## %F0%9F%A4%96 AI & Engineering
 - Machine Learning & Deep Learning (Phitron AI/ML Expert, Batch 01)
 - Data Analysis & Visualization
 - Modern Full Stack Web Applications (Next.js, Backend Architecture)
@@ -139,11 +119,7 @@ class AhsanurRahaman:
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%92%8E%20%26nbsp%3B%20PROFESSIONAL%20SUMMARY&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:DB2777,100:9333EA" width="100%" alt="💎 &nbsp; PROFESSIONAL SUMMARY" />
-
-</div>
+## %F0%9F%92%8E &nbsp%3B PROFESSIONAL SUMMARY
 
 > Motivated and passionate **Computer Science & Engineering student** focused on solving real-world problems through technology, research, and innovation.
 
@@ -165,11 +141,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%A7%AC%20%26nbsp%3B%20RESEARCH%20INTERESTS&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:2563EB,100:7C3AED" width="100%" alt="🧬 &nbsp; RESEARCH INTERESTS" />
-
-</div>
+## %F0%9F%A7%AC &nbsp%3B RESEARCH INTERESTS
 
 <table>
 <tr><td width="35%">🧠 <b>Brain Computer Interface</b></td><td>EEG Signal Analysis, Motor Imagery</td></tr>
@@ -182,11 +154,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%93%84%20%26nbsp%3B%20PUBLICATIONS%20%26%20CONFERENCES&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:7C3AED,100:2563EB" width="100%" alt="📄 &nbsp; PUBLICATIONS & CONFERENCES" />
-
-</div>
+## %F0%9F%93%84 &nbsp%3B PUBLICATIONS & CONFERENCES
 
 <table>
 <tr>
@@ -226,11 +194,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%8F%86%20%26nbsp%3B%20HONORS%20%26%20ACHIEVEMENTS&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:0891B2,100:06B6D4" width="100%" alt="🏆 &nbsp; HONORS & ACHIEVEMENTS" />
-
-</div>
+## %F0%9F%8F%86 &nbsp%3B HONORS & ACHIEVEMENTS
 
 <table>
 <tr><th>Year</th><th>Achievement</th><th>Event</th></tr>
@@ -246,11 +210,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%8E%93%20%26nbsp%3B%20EDUCATION&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:059669,100:10B981" width="100%" alt="🎓 &nbsp; EDUCATION" />
-
-</div>
+## %F0%9F%8E%93 &nbsp%3B EDUCATION
 
 <table>
 <tr><th>Period</th><th>Degree</th><th>Institution</th><th>Result</th></tr>
@@ -261,11 +221,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20%26nbsp%3B%20TECH%20STACK&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:EA580C,100:F59E0B" width="100%" alt="🛠️ &nbsp; TECH STACK" />
-
-</div>
+## %F0%9F%9B%A0%EF%B8%8F &nbsp%3B TECH STACK
 
 <table>
 <tr><th width="30%">Area</th><th>Technologies & Tools</th></tr>
@@ -279,11 +235,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%9A%80%20%26nbsp%3B%20FEATURED%20PROJECTS&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:DB2777,100:9333EA" width="100%" alt="🚀 &nbsp; FEATURED PROJECTS" />
-
-</div>
+## %F0%9F%9A%80 &nbsp%3B FEATURED PROJECTS
 
 <table>
 <tr><th>Project</th><th>Description</th><th>Technologies</th></tr>
@@ -311,11 +263,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%93%9C%20%26nbsp%3B%20CERTIFICATIONS%20%26%20COURSES&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:2563EB,100:7C3AED" width="100%" alt="📜 &nbsp; CERTIFICATIONS & COURSES" />
-
-</div>
+## %F0%9F%93%9C &nbsp%3B CERTIFICATIONS & COURSES
 
 <table>
 <tr><th>Certification / Course</th><th>Provider / Date</th></tr>
@@ -335,11 +283,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%A4%9D%20%26nbsp%3B%20LEADERSHIP%20%26%20ACTIVITIES&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:7C3AED,100:2563EB" width="100%" alt="🤝 &nbsp; LEADERSHIP & ACTIVITIES" />
-
-</div>
+## %F0%9F%A4%9D &nbsp%3B LEADERSHIP & ACTIVITIES
 
 <table>
 <tr><th>Period</th><th>Role</th><th>Organization</th></tr>
@@ -349,11 +293,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 <tr><td>2025</td><td>Vice President (CP Community)</td><td>PUB Computer & Programming Club</td></tr>
 </table>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%8C%8D%20Volunteering&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:0891B2,100:06B6D4" width="100%" alt="🌍 Volunteering" />
-
-</div>
+## %F0%9F%8C%8D Volunteering
 
 <table>
 <tr><td>🌌</td><td>NASA Space Apps Challenge, Bangladesh (2026)</td></tr>
@@ -365,11 +305,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%8C%8D%20%26nbsp%3B%20LANGUAGES&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:059669,100:10B981" width="100%" alt="🌍 &nbsp; LANGUAGES" />
-
-</div>
+## %F0%9F%8C%8D &nbsp%3B LANGUAGES
 
 <table>
 <tr><th>Language</th><th>Proficiency</th></tr>
@@ -381,11 +317,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%93%8A%20%26nbsp%3B%20GITHUB%20ANALYTICS&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:EA580C,100:F59E0B" width="100%" alt="📊 &nbsp; GITHUB ANALYTICS" />
-
-</div>
+## %F0%9F%93%8A &nbsp%3B GITHUB ANALYTICS
 
 <div align="center">
 
@@ -401,11 +333,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%93%88%20%26nbsp%3B%20CONTRIBUTION%20GRAPH&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:DB2777,100:9333EA" width="100%" alt="📈 &nbsp; CONTRIBUTION GRAPH" />
-
-</div>
+## %F0%9F%93%88 &nbsp%3B CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -415,11 +343,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%8F%86%20%26nbsp%3B%20GITHUB%20TROPHIES&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:2563EB,100:7C3AED" width="100%" alt="🏆 &nbsp; GITHUB TROPHIES" />
-
-</div>
+## %F0%9F%8F%86 &nbsp%3B GITHUB TROPHIES
 
 <div align="center">
 
@@ -429,11 +353,7 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%A7%BE%20%26nbsp%3B%20PROFILE%20SUMMARY%20CARDS&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:7C3AED,100:2563EB" width="100%" alt="🧾 &nbsp; PROFILE SUMMARY CARDS" />
-
-</div>
+## %F0%9F%A7%BE &nbsp%3B PROFILE SUMMARY CARDS
 
 <div align="center">
 
@@ -460,25 +380,16 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%90%8D%20%26nbsp%3B%20CONTRIBUTION%20SNAKE&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:0891B2,100:06B6D4" width="100%" alt="🐍 &nbsp; CONTRIBUTION SNAKE" />
-
-</div>
+## %F0%9F%90%8D &nbsp%3B CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahsanur-official/ahsanur-official/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" width="100%" />
-
+<p><i>Contribution snake animation can be added after the GitHub Actions workflow is configured.</i></p>
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%92%BB%20%26nbsp%3B%20COMPETITIVE%20PROGRAMMING%20PROFILES&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:059669,100:10B981" width="100%" alt="💻 &nbsp; COMPETITIVE PROGRAMMING PROFILES" />
-
-</div>
+## %F0%9F%92%BB &nbsp%3B COMPETITIVE PROGRAMMING PROFILES
 
 <div align="center">
 
@@ -491,25 +402,16 @@ I have experience with **CNN, LSTM, generative models, EEG signal processing, ma
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%E2%9A%A1%20%26nbsp%3B%20FUN%20ZONE&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:EA580C,100:F59E0B" width="100%" alt="⚡ &nbsp; FUN ZONE" />
-
-</div>
+## %E2%9A%A1 &nbsp%3B FUN ZONE
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random developer joke" />
-
+<p><i>Transforming ideas and data into impactful intelligent digital experiences.</i></p>
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%8C%90%20%26nbsp%3B%20CONNECT%20WITH%20ME&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:DB2777,100:9333EA" width="100%" alt="🌐 &nbsp; CONNECT WITH ME" />
-
-</div>
+## %F0%9F%8C%90 &nbsp%3B CONNECT WITH ME
 
 <div align="center">
 
@@ -528,25 +430,9 @@ I'm open to **research collaborations**, **Master's / RA opportunities**, and di
 
 <div align="center">
 
-<div align="center">
+## %F0%9F%92%AD &nbsp%3B DEVELOPER QUOTE
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%92%AD%20%26nbsp%3B%20DEVELOPER%20QUOTE&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:2563EB,100:7C3AED" width="100%" alt="💭 &nbsp; DEVELOPER QUOTE" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%E2%9C%A8%20%22Transforming%20ideas%20and%20data%20into%20impactful%20intelligent%20digital%20experiences.%22%20%E2%9C%A8&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:7C3AED,100:2563EB" width="100%" alt="✨ "Transforming ideas and data into impactful intelligent digital experiences." ✨" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:7C3AED,25:2563EB,50:06B6D4,75:10B981,100:F59E0B" width="100%" alt="Colorful footer" />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&section=header&text=%F0%9F%92%99%20Thanks%20for%20visiting%20my%20profile&fontSize=23&fontColor=ffffff&fontAlignY=55&color=0:0891B2,100:06B6D4" width="100%" alt="💙 Thanks for visiting my profile" />
-
-</div>
+## %E2%9C%A8 %22Transforming ideas and data into impactful intelligent digital experiences.%22 %E2%9C%A8
 
 ⭐ From [Md. Ahsanur Rahaman](https://github.com/ahsanur-official)
 
